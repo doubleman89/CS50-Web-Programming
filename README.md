@@ -1,4 +1,4 @@
-# CS50’s Web Programming with Python and JavaScript Course
+# [CS50’s Web Programming with Python and JavaScript Course](https://cs50.harvard.edu/web/2020)
 ## Lectures - tested code from course
 
 - [x] 0.HTML, CSS
